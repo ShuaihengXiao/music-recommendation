@@ -1,0 +1,8 @@
+READ ME
+
+result_csv --s  0.84244
+result_lr  --s  0.86829
+result_dt  --s  0.86563
+result_rf  --s  0.86585
+result_gb  --s  0.86530
+new_pred_4 --l  0.79714
