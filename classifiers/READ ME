@@ -1,0 +1,9 @@
+READ ME
+
+use test2_5score as train set
+use test_5score as train set
+
+testY is logistic regression   --0.85375
+testY1 is decision tree --0.85512
+testY2 is random forest --0.85523
+testY3 is gradient boosted --0.61115
